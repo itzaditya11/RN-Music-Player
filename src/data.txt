@@ -1,0 +1,76 @@
+const songs = [
+  {
+    title: 'Legend',
+    artist: 'Sidhu Moosewala',
+    artwork: require('../assets/1.jpg'),
+    url:
+      'https://github.com/ShivamJoker/sample-songs/raw/master/death%20bed.mp3',
+    id: '1',
+  },
+  {
+    title: 'So High',
+    artist: 'Sidhu Moosewala',
+    artwork: require('../assets/2.jpg'),
+    url:
+      'https://github.com/ShivamJoker/sample-songs/raw/master/Bad%20Liar.mp3',
+    id: '2',
+  },
+  {
+    title: 'Akhar',
+    artist: 'Amrinder Gill',
+    artwork: require('../assets/3.jpg'),
+    url: 'https://github.com/itzaditya11/sample-songs/blob/main/3.mp3',
+    id: '3',
+  },
+  {
+    title: 'Nasha',
+    artist: 'Pav Dharia',
+    artwork: require('../assets/4.jpg'),
+    url: 'https://github.com/itzaditya11/sample-songs/blob/main/4.mp3',
+    id: '4',
+  },
+  {
+    title: 'Mil ke Baithange',
+    artist: 'Amrinder Gill',
+    artwork: require('../assets/5.jpg'),
+    url: 'https://github.com/itzaditya11/sample-songs/blob/main/5.mp3',
+    id: '5',
+  },
+  {
+    title: '47',
+    artist: 'Sidhu MooseWala',
+    artwork: require('../assets/6.jpg'),
+    url: 'https://github.com/itzaditya11/sample-songs/blob/main/6.mp3',
+    id: '6',
+  },
+  {
+    title: 'Sanju',
+    artist: 'Sidhu MooseWala',
+    artwork: require('../assets/7.jpg'),
+    url: 'https://github.com/itzaditya11/sample-songs/blob/main/7.mp3',
+    id: '7',
+  },
+  {
+    title: 'Game',
+    artist: 'Sidhu MooseWala',
+    artwork: require('../assets/8.jpg'),
+    url: 'https://github.com/itzaditya11/sample-songs/blob/main/8.mp3',
+    id: '8',
+  },
+  {
+    title: 'Sohne Lagde',
+    artist: 'Sidhu MooseWala',
+    artwork: require('../assets/9.jpg'),
+    url: 'https://github.com/itzaditya11/sample-songs/blob/main/9.mp3',
+    id: '9',
+  },
+  {
+    title: 'Leekan',
+    artist: 'Amrinder Gill',
+    artwork: require('../assets/10.jpg'),
+    url: 'https://github.com/itzaditya11/sample-songs/blob/main/10.mp3',
+    id: '10',
+  },
+];
+
+export default songs;
